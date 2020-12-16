@@ -1,11 +1,11 @@
 # cybersecurity-resources
 
 ### Cyber Security Blogs and Resources
-Curated list of blogs favored by myself and some in the industry 
+###### Curated list of blogs favored by myself and some in the industry 
 
 ### Threat Intelligence Research Groups
-While many threat research groups exist, and many have blogs, they produce reports complimentary to an operational role and understanding. </br>
-###### Security Vendors
+###### While many threat research groups exist, and many have blogs, they produce reports complimentary to an operational role and understanding. </br>
+## Security Vendors
 [CrowdStrike](https://www.crowdstrike.com/blog/)</br>
 [RiskIQ Articles](https://community.riskiq.com/research)</br>
 [PaloAlto's Unit42](https://blog.paloaltonetworks.com/author/unit-42/)</br>
@@ -14,25 +14,28 @@ While many threat research groups exist, and many have blogs, they produce repor
 [digital_shadows](https://www.digitalshadows.com/blog-and-research/)</br>
 [ThreatConnect Blog](https://threatconnect.com/blog/)</br>
 [DomainTools Blog](https://www.domaintools.com/)</br>
+</br> 
 
-###### Federal Agency Blogs
+### Federal Agency Blogs
 [CISA Cybersecurity Blog](https://www.cisa.gov/blog-list/Cybersecurity)</br>
 [CERT Alerts](https://us-cert.cisa.gov/ncas/alerts) & [CERT Current Activity](https://us-cert.cisa.gov/ncas/current-activity)
+</br>
 
-###### Meet the Adversaries 
-Resources to learn about the adversaries that are prolific enough to be identified, named, and tracked. </br>
+### Meet the Adversaries 
+###### Resources to learn about the adversaries that are prolific enough to be identified, named, and tracked. </br>
 [APT Groups and Operations Matrix](https://apt.threattracking.com) </br>
 [Crowdstrike Classifications](https://www.crowdstrike.com/blog/meet-the-adversaries/)
+</br>
 
-
-### Basic Web Resources for Operations or Research
-###### Sandboxes
+## Basic Web Resources for Operations or Research
+### Sandboxes
 [HybridAnalysis](https://www.hybrid-analysis.com/)</br>
 tags: #windows #macos #linux </br>
 [JoesSandbox Cloud](https://www.joesandbox.com/#windows)</br>
-tags: #windows #macos #adnroid #linux #ios
+tags: #windows #macos #adnroid #linux #ios 
+</br>
 
-###### Indicator Search
+### Indicator Search
 [VirusTotal](https://www.virustotal.com/gui/home/url)</br>
 tags: #file #url #domain #url #host </br>
 [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)</br>
@@ -49,13 +52,16 @@ tags: #domain #ip #contactemail </br>
 tags: #doamin #ip #email #organization</br>
 [ThreatMiner](https://www.threatminer.org/)</br>
 tags: #domain #ip #filehash #email #ssl #ua #filename #registry #mutex</br>
+</br>
 
-#### Email Analysis Tools 
+### Email Analysis Tools 
 [Google Admin Toolsbox - Messageheader](https://toolbox.googleapps.com/apps/messageheader/)
+</br>
 
-#### Network Research Tools 
+### Network Research Tools 
 [DNSDumpster](https://dnsdumpster.com/)</br>
 [Shodan](https://www.shodan.io/)
+</br>
 
-#### Other Favored Blogs
+### Other Favored Blogs
 [Splunk Blogs](https://www.splunk.com/en_us/blog)</br>
