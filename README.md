@@ -1,7 +1,7 @@
 # cybersecurity-resources
 
 ### Cyber Security Blogs and Resources
-###### Curated list of Cybersecurity blogs 
+###### Curated list of Cybersecurity blogs and resources
 </br>
 
 ### Threat Intelligence Research Groups
