@@ -39,7 +39,7 @@ tags: #windows #macos #adnroid #linux #ios
 
 ### Indicator Search
 [VirusTotal](https://www.virustotal.com/gui/home/url)</br>
-tags: #file #url #domain #url #host </br>
+tags: #file #url #domain #host </br>
 [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)</br>
 tags: #ip #url #domain #email #cve #cidr #filehash #filepath #mutex #yara #tag </br>
 [Open Threat Exchange](https://otx.alienvault.com/)</br>
