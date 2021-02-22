@@ -1,7 +1,7 @@
 # cybersecurity-resources
 
 ### Cyber Security Blogs and Resources
-###### Curated list of Cybersecurity blogs and resources
+###### Curated list of Cybersecurity blogs and resources. The current list is suited for those looking for resources related to Threat Intelligence. But collaboration is welcome and the intent is to provide lists for multiple facets of infosec. 
 </br>
 
 ### Threat Intelligence Research Groups
