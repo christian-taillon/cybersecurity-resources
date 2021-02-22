@@ -5,7 +5,7 @@
 </br>
 
 ### Threat Intelligence Research Groups
-###### While many threat research groups exist, and many have blogs, they produce reports complimentary to an operational role and understanding. </br>
+###### You will find many threat research publications and blogs. The groups specified bellow generally offer information relevant to an operational level of understanding. Tactical Intelligence sources are provided bellow in Threat Intell Content Development. </br>
 ## Security Vendors
 [CrowdStrike](https://www.crowdstrike.com/blog/)</br>
 [RiskIQ Articles](https://community.riskiq.com/research)</br>
@@ -37,7 +37,7 @@ tags: #windows #macos #linux </br>
 tags: #windows #macos #adnroid #linux #ios 
 </br></br>
 
-### Indicator Search
+### Threat Intell Content Development
 [VirusTotal](https://www.virustotal.com/gui/home/url)</br>
 tags: #file #url #domain #host </br>
 [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)</br>
