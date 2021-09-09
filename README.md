@@ -1,16 +1,16 @@
 # General Infosec
 
-### MITRE Attack Framework
-Knowledge base of adversary tactics and techniques. Resource attempting to comprehensively cover all known methods of accomplishing adversarial goals.
+### MITRE Att&ck Framework
+Mittre Att&ck is a knowledge base of adversary tactics and techniques. This resource attempts to comprehensively cover all known methods of accomplishing adversarial tactics.
 
-Great resource to know how to use. Not something you need to or perhaps even can memorize. It is prudent to read through however and if you don't understand a topic, DuckDuck-Go it.
+Great resource to know how to use. Not something you need to or perhaps even can memorize. It is prudent to read through however and if you don't understand a topic read about it.
 
 ## Train Hard, Train Smart
-The InfoSec profession does require a good deal of knowledge; but high performing security practitioners are those with an equally impressive set of skills through  which to execute that knowledge.
+The InfoSec profession does require a good deal of knowledge; but high performing security practitioners are those with an equally impressive skill set through which they can act on that knowledge. Simulations are a great way to accomplish this.
 
-[VulnHub](https://www.vulnhub.com/) is a created repository of community contributed  VMs made vulnerable by design for various purposes training. Typically CTF style targets with the goal of finding hidden flags which prove the accomplishment of some gained level of access. Used for practicing adversarial work.
+Capture the Flag or CTF exercises are a great way to understand some of the tools and thought process of an adversary.Typically CTF style targets with the goal of finding hidden flags which prove the accomplishment of some gained level of access. While they primary simulate activity of an adversary, you can also perform a packet capture during the exerciser or even set up tools like Zeek and Suricata to try to later detect the activity you performed while attacking the VM.
 
-Nothing prohibits you from attempting to secure the VMs from the same attacks you used to gain access.
+[VulnHub](https://www.vulnhub.com/) is a created repository of community contributed VMs made vulnerable by design for various training purposes. While you can attempt to detect your self in logs, nothing prohibits you from attempting to secure the VMs from the same attacks you used to gain access.
 
 
 # Threat Intelligence Resources
@@ -75,7 +75,9 @@ tags: #domain #ip #filehash #email #ssl #ua #filename #registry #mutex
 [Google Admin Toolsbox - Messageheader](https://toolbox.googleapps.com/apps/messageheader/)
 </br></br>
 
-### Network Research Tools
+
+
+### External Research Tools
 [DNSDumpster](https://dnsdumpster.com/)</br>
 [Shodan](https://www.shodan.io/)
 </br></br>
