@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Cyber Security Resources"
+permalink: /cyberresources
+---
+
 # General Infosec
 
 ### MITRE Att&ck Framework
@@ -9,71 +15,71 @@ It is a great resource to know how to use. Not something you need to or perhaps 
 # Threat Intelligence Resources
 
 ### Threat Intelligence Research Groups
-You will find many threat research publications and blogs. The groups specified bellow generally offer information relevant to an operational level of understanding. Tactical Intelligence sources are provided bellow in Threat Intel Content Development. </br>
+You will find many threat research publications and blogs. The groups specified bellow generally offer information relevant to an operational level of understanding. Tactical Intelligence sources are provided bellow in Threat Intel Content Development. <br>
 
 ## Security Vendors Threat Blogs
-[CrowdStrike](https://www.crowdstrike.com/blog/)</br>
-[RiskIQ Articles](https://community.riskiq.com/research)</br>
-[PaloAlto's Unit42](https://blog.paloaltonetworks.com/author/unit-42/)</br>
-[Cisco Talos](https://blog.talosintelligence.com/)</br>
-[Intel471](https://intel471.com/blog/)</br>
-[digital_shadows](https://www.digitalshadows.com/blog-and-research/)</br>
-[ThreatConnect Blog](https://threatconnect.com/blog/)</br>
+[CrowdStrike](https://www.crowdstrike.com/blog/)<br>
+[RiskIQ Articles](https://community.riskiq.com/research)<br>
+[PaloAlto's Unit42](https://blog.paloaltonetworks.com/author/unit-42/)<br>
+[Cisco Talos](https://blog.talosintelligence.com/)<br>
+[Intel471](https://intel471.com/blog/)<br>
+[digital_shadows](https://www.digitalshadows.com/blog-and-research/)<br>
+[ThreatConnect Blog](https://threatconnect.com/blog/)<br>
 [DomainTools Blog](https://www.domaintools.com/)
-</br> </br>
+<br> <br>
 
 ### Federal Agency Threat Blogs
-[CISA Cybersecurity Blog](https://www.cisa.gov/blog-list/Cybersecurity)</br>
+[CISA Cybersecurity Blog](https://www.cisa.gov/blog-list/Cybersecurity)<br>
 [CERT Alerts](https://us-cert.cisa.gov/ncas/alerts) & [CERT Current Activity](https://us-cert.cisa.gov/ncas/current-activity)
-</br></br>
+<br><br>
 
 ### Meet the Adversaries
-###### Resources to learn about the adversaries that are prolific enough to be identified, named, and tracked. </br>
-[APT Groups and Operations Matrix](https://apt.threattracking.com) </br>
+###### Resources to learn about the adversaries that are prolific enough to be identified, named, and tracked. <br>
+[APT Groups and Operations Matrix](https://apt.threattracking.com) <br>
 [Crowdstrike Classifications](https://www.crowdstrike.com/blog/meet-the-adversaries/)
-</br></br>
+<br><br>
 
 
 ## Basic Web Resources for Operations or Research
 ### Sandboxes
-[HybridAnalysis](https://www.hybrid-analysis.com/)</br>
-tags: #windows #macos #linux </br>
-[JoesSandbox Cloud](https://www.joesandbox.com/#windows)</br>
+[HybridAnalysis](https://www.hybrid-analysis.com/)<br>
+tags: #windows #macos #linux <br>
+[JoesSandbox Cloud](https://www.joesandbox.com/#windows)<br>
 tags: #windows #macos #adnroid #linux #ios
-</br></br>
+<br><br>
 
 ### Threat Intell Content Development
-[VirusTotal](https://www.virustotal.com/gui/home/url)</br>
-tags: #file #url #domain #host </br>
-[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)</br>
-tags: #ip #url #domain #email #cve #cidr #filehash #filepath #mutex #yara #tag </br>
-[Open Threat Exchange](https://otx.alienvault.com/)</br>
-tags: #ip #url #domain #email #cve #cidr #filehash #filepath #mutex #yara  </br>
-[PassiveTotal](https://community.riskiq.com/search) </br>
-tags: #domains #host #ips #sslcert #contactemail </br>
-[DomainTools](https://whois.domaintools.com/) </br>
-tags: #domain #ip</br>
-[Talos](https://talosintelligence.com/)</br>
-tags: #domain #ip #contactemail </br>
-[ThreatCrowd](https://www.threatcrowd.org/)</br>
-tags: #doamin #ip #email #organization</br>
-[ThreatMiner](https://www.threatminer.org/)</br>
+[VirusTotal](https://www.virustotal.com/gui/home/url)<br>
+tags: #file #url #domain #host <br>
+[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)<br>
+tags: #ip #url #domain #email #cve #cidr #filehash #filepath #mutex #yara #tag <br>
+[Open Threat Exchange](https://otx.alienvault.com/)<br>
+tags: #ip #url #domain #email #cve #cidr #filehash #filepath #mutex #yara  <br>
+[PassiveTotal](https://community.riskiq.com/search) <br>
+tags: #domains #host #ips #sslcert #contactemail <br>
+[DomainTools](https://whois.domaintools.com/) <br>
+tags: #domain #ip<br>
+[Talos](https://talosintelligence.com/)<br>
+tags: #domain #ip #contactemail <br>
+[ThreatCrowd](https://www.threatcrowd.org/)<br>
+tags: #doamin #ip #email #organization<br>
+[ThreatMiner](https://www.threatminer.org/)<br>
 tags: #domain #ip #filehash #email #ssl #ua #filename #registry #mutex
-</br></br>
+<br><br>
 
 ### Email Analysis Tools
 [Google Admin Toolsbox - Messageheader](https://toolbox.googleapps.com/apps/messageheader/)
-</br></br>
+<br><br>
 
 
 
 ### External Research Tools
-[DNSDumpster](https://dnsdumpster.com/)</br>
+[DNSDumpster](https://dnsdumpster.com/)<br>
 [Shodan](https://www.shodan.io/)
-</br></br>
+<br><br>
 
 ### Other Favored Blogs
-[Splunk Blogs](https://www.splunk.com/en_us/blog)</br>
+[Splunk Blogs](https://www.splunk.com/en_us/blog)<br>
 
 
 ## Train Hard, Train Smart
@@ -116,5 +122,30 @@ Splunk UF is used to Collect Logs + run scripts
 
   *Note: I had also performed packet captures with this device in the past; however, am unaware if that would interfere with Corelight currently.*
 
-
-# Cyber Incident Response Team (CISRT / CIRT)
+**File Extension Cheat Sheet**
+- 7zip : 7-zip archive format
+- bzip2 : bzip2 archive format
+- cab : cab file format
+- dat : data file format
+- dmp : memory dump
+- docx : microsoft word
+- dwg : drawings
+- dxf : cad file format for autodesk
+- ese : database file format
+- idw : image file format for autodesk
+- jar : java archive
+- macho : binary executable format
+- ole : object linking and embedding
+- ooxml : office open xml
+- pdf : pdf
+- pe : pe
+- pptx : microsoft powerpoint
+- rar : rar archive format
+- rtf : rich text format
+- script : script file
+- sld : slide format for autocad
+- tar : tar archive format
+- vsdx : microsoft visio
+- xar : xar archive format
+- xlsx : microsoft excel
+- zip : zip archive
